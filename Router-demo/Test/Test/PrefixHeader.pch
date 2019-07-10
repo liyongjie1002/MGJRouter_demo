@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  Test
+//
+//  Created by 李永杰 on 2019/7/10.
+//  Copyright © 2019 muheda. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "MGJRouter.h"
+
+#endif /* PrefixHeader_pch */
